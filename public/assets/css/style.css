@@ -47,7 +47,7 @@ h6 {
   overflow: hidden;
   transition: all 0.3s;
   border-radius: 12px;
-  background-color: #0099FF;
+  background-color: #0099FF ;
   font-weight: border;
   box-sizing: 0 2px 0 2px #000;
 }
